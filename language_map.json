@@ -1,0 +1,8 @@
+{
+  "localhost:50052": {
+    "languages": [
+      "hi"
+    ],
+    "maxConnectionCount": 10000
+  }
+}
